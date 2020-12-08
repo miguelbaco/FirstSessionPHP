@@ -18,6 +18,4 @@ _With this program, the user manages to maintain information in the program, wit
 
 ## Author ✒️
 
-_Menciona a todos aquellos que ayud_
-
 * **Miguel Ángel Baco Morillo**
