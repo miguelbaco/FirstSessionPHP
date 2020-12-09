@@ -5,7 +5,7 @@ _This is my first project working with sessions in PHP_
 ## How to get my php program 🚀📋
 
 ```
-https://github.com/miguelbaco/FirstSessionPHP.git
+git clone https://github.com/miguelbaco/FirstSessionPHP
 ```
 
 ## How to login with session ⚙️
